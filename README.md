@@ -1,4 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Project Link
+Click [https://mayank1997.github.io/pokemon/] to view
 
 ## Available Scripts
 
